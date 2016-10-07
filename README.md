@@ -7,3 +7,14 @@ In order to run the service, you must first go into the "service" directory and 
 Then run python main.py (still in the service directory) to start the service.
 
 In another terminal, return to the root directory of the git repo, and run python main.py to start the UI. The UI does not need to be running for the service to work, and alerts are stored, so restarting the UI will bring the alerts back.
+
+Demos
+=====
+MITMCanary vs MITMf:
+https://www.youtube.com/watch?v=fDbQMk5OMZw
+
+MITMCanary vs Responder:
+https://www.youtube.com/watch?v=d8oWPesBFUY
+
+MITMCanary vs Zarp + MITMProxy:
+https://www.youtube.com/watch?v=vEPU3FICqEw
