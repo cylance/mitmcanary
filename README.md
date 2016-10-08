@@ -8,6 +8,11 @@ Then run python main.py (still in the service directory) to start the service.
 
 In another terminal, return to the root directory of the git repo, and run python main.py to start the UI. The UI does not need to be running for the service to work, and alerts are stored, so restarting the UI will bring the alerts back.
 
+Talks
+======
+This tool was presented at VirusBulletin 2016 in Denver. The slides for that talk are available here:
+https://www.virusbulletin.com/uploads/pdf/conference_slides/2016/Wallace-vb-2016-detecting-mitm-canary.pdf
+
 Demos
 =====
 MITMCanary vs MITMf:
